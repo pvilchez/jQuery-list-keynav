@@ -1,0 +1,13 @@
+README
+
+Keynav.js
+Author: Paul Vilchez (@pvilchez)
+==============
+
+Keynav.js is a short script using jQuery to traverse an html list element.
+
+Use anchor tags to limit the traversal, #1 for the first element, #N for the last. In the source, it's currently #5.
+
+==============
+Last Updated: Aug 20'10
+Addendum: This is my first attempt at learning some jQuery, and using gitHub.
